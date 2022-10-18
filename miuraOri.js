@@ -1,7 +1,3 @@
-import ear from "rabbit-ear";
-const ear = require("rabbit-ear");
-
-var myOrigami = ear.origami()
 svg.size(1, 1)
 	.padding(0.1)
 	.strokeWidth(1 / 100);

@@ -1,0 +1,31 @@
+{
+  "name": "tesisorigami",
+  "version": "1.0.0",
+  "description": "codigo para el desarrollo de la tesis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan13l/TesisOrigami.git"
+  },
+  "keywords": [
+    "origami",
+    "matematicas"
+  ],
+  "author": "dan13l",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dan13l/TesisOrigami/issues"
+  },
+  "homepage": "https://github.com/dan13l/TesisOrigami#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "d3": "^7.6.1",
+    "jquery": "^3.6.1",
+    "p5": "^1.4.2",
+    "paper": "^0.12.15",
+    "rabbit-ear": "^0.9.32"
+  }
+}
